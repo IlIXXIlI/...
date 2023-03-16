@@ -6,7 +6,7 @@
 	"Tweaked": [{
 		"name": "Tik Tok LRD",
 		"version": "28.4.0 + LRD2.1",
-		"down": "https://github.com/releases/download/123123/TikTok_28.4.0_LRD2.1_%40ttskarl.ipa",
+		"down": "https://github.com/IlIXXIlI/releases/download/123123/TikTok_28.4.0_LRD2.1_%40ttskarl.ipa",
 		"category": "TikTok",
 		"description": "Приложение TikTok с встроенной модификацией LRD.",
 		"icon": "https://github.com/IlIXXIlI/ICON/blob/main/41.png?raw=true",
@@ -17,7 +17,7 @@
 	}, {
 		"name": "Tik Tok Dark",
 		"version": "28.4.0 + Dark",
-		"down": "https://github.com/IlIXXIlI/releases/download/123123/TikTok_28.4.0_Dark_%40ttskarl.ipa",
+		"down": "https://github.com/IlIXXIlI/releases/download/123123/TikTok_28.4.0_Dark_@ttskarl.ipa",
 		"category": "TikTok",
 		"description": "Приложение TikTok с встроенной модификацией DARK.",	
 		"icon": "https://github.com/IlIXXIlI/ICON/blob/main/41.png?raw=true",	
@@ -27,7 +27,7 @@
 	}, {
 		"name": "SBOL",
 		"version": "14.3.0",
-		"down": "https://github.com/IlIXXIlI/releases/download/123123/SBOL_14.3.0_%40ttskarl.ipa",
+		"down": "https://github.com/IlIXXIlI/releases/download/123123/SBOL_14.3.0_@ttskarl.ipa",
 		"category": "Bank",
 		"description": "Сбербанк.",
 		"icon": "https://github.com/IlIXXIlI/ICON/blob/main/1200x630wa.png?raw=true",
