@@ -362,6 +362,9 @@
 		"description": "Test Mew Subway Surf",
       		"icon": "https://github.com/IlIXXIlI/ICON/blob/main/SS.jpg?raw=true",
 		"banner": "https://github.com/IlIXXIlI/ICON/blob/main/Banner.png?raw=true"
-
-	}]
+		"contact":	{
+			"https://t.me/ttskarl",
+			"https://t.me/ttskarl"
+				}
+}]
 }
