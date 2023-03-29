@@ -163,6 +163,19 @@
 			"web": "https://t.me/ttskarl",
 			"twitter": "https://t.me/ttskarl"
 	}}, {
+		"name": "Minecraft",
+		"version": "1.19.63",
+		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/Minecraft_1.19.63_@ttskarl.ipa",
+		"category": "Games",
+		"description": " ",
+		"icon": "https://github.com/IlIXXIlI/ICON/blob/main/minecraft.jpg?raw=true",
+		"banner": "https://github.com/IlIXXIlI/ICON/blob/main/Banner.png?raw=true",
+		"bundleID": "com.mojang.minecraftpe",
+		"appstore": "com.mojang.minecraftpe",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+	}}, {
 		"name": "Shadow Fight 2 | MOD",
 		"version": "2.25.0",
 		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/Shadow.Fight.2_2.25.0_@ttskarl.ipa",
@@ -226,12 +239,12 @@
 			"web": "https://t.me/ttskarl",
 			"twitter": "https://t.me/ttskarl"
 	}}, {
-		"name": "Null's Brawl",
-		"version": "48.300",
-		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/Null.s.Brawl_48.300_@ttskarl.ipa",
-		"category": "Games",
-		"description": " ",
-		"icon": "https://github.com/IlIXXIlI/ICON/blob/main/CoC.jpg?raw=true",
+		"name": "2GIS",
+		"version": "6.8.0",
+		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/2GIS_6.8.0_@ttskarl.ipa",
+		"category": "Maps",
+		"description": "Удален из AppStore. 2ГИС – это бесплатный справочник с картой города. Самая подробная карта города.",
+		"icon": "https://raw.githubusercontent.com/IlIXXIlI/ICON/main/CguSipnnirY.jpg ",
 		"banner": "https://github.com/IlIXXIlI/ICON/blob/main/Banner.png?raw=true",
 		"contact": {
 			"web": "https://t.me/ttskarl",
