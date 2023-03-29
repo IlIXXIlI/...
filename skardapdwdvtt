@@ -226,6 +226,17 @@
 			"web": "https://t.me/ttskarl",
 			"twitter": "https://t.me/ttskarl"
 	}}, {
+		"name": "2GIS",
+		"version": "6.8.0",
+		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/2GIS_6.8.0_@ttskarl.ipa",
+		"category": "Maps",
+		"description": "Удален из AppStore. 2ГИС – это бесплатный справочник с картой города. Самая подробная карта города.",
+		"icon": "https://raw.githubusercontent.com/IlIXXIlI/ICON/main/CguSipnnirY.jpg ",
+		"banner": "https://github.com/IlIXXIlI/ICON/blob/main/Banner.png?raw=true",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+	}}, {
 		"name": "Null's Brawl",
 		"version": "48.300",
 		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/Null.s.Brawl_48.300_@ttskarl.ipa",
