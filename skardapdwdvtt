@@ -572,6 +572,17 @@
 		"contact": {
 			"web": "https://t.me/ttskarl",
 			"twitter": "https://t.me/ttskarl"
+	}}, {
+		"name": "My Child: Lebensborn",
+		"version": "1.7.101",
+		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/MyChildLebensborn_1.7.101_@ttskarl.ipa",
+		"category": "Games",
+		"description": "В My Child Lebensborn игрок берёт на себя роль приёмного родителя для ребёнка из Лебенсборна в Норвегии после Второй мировой войны",
+		"icon": "https://raw.githubusercontent.com/IlIXXIlI/ICON/main/9237afe2f3ac668b56912e5a30ef33167a596c239198dbe416d3923c45c291f7_100.jpeg",
+		"banner": "https://github.com/IlIXXIlI/ICON/blob/main/Banner.png?raw=true",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
 		}
 
 	}]
