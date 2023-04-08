@@ -5,7 +5,7 @@
 	},
 	"Tweaked": [{
 		"name": "Tik Tok LRD",
-		"version": "28.4.1 + LRD2.1",
+		"version": "28.9.1 + LRD2.1",
 		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/TikTok_28.4.1_LRD_@ttskarl.ipa",
 		"category": "TikTok",
 		"description": "Приложение TikTok с встроенной модификацией LRD.",
@@ -18,7 +18,7 @@
 			"twitter": "https://t.me/ttskarl"
 	}}, {
 		"name": "Tik Tok Dark",
-		"version": "28.4.1 + Dark",
+		"version": "28.9.1 + Dark",
 		"down": "https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/TikTok_28.4.1_Dark_@ttskarl.ipa",
 		"category": "TikTok",
 		"description": "Приложение TikTok с встроенной модификацией DARK.",
